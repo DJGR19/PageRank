@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\florentino garcia\desktop\stockbase egafutura\universidad\unitec\programación iii\parcial i.i\proyectoii\pagerank2\pagerank\main.cpp(29): warning C4101: 'href': variable local sin referencia
+c:\users\florentino garcia\desktop\stockbase egafutura\universidad\unitec\programación iii\parcial i.i\proyectoii\pagerank2\pagerank\main.cpp(29): warning C4101: 'ENTRADADATOS': variable local sin referencia
+c:\users\florentino garcia\desktop\stockbase egafutura\universidad\unitec\programación iii\parcial i.i\proyectoii\pagerank2\pagerank\main.cpp(95): warning C4101: 'linked': variable local sin referencia
+  PageRank.vcxproj -> C:\Users\FLORENTINO GARCIA\Desktop\StockBase EGAFutura\Universidad\UNITEC\Programación III\Parcial I.I\ProyectoII\PageRank2\Debug\PageRank.exe
